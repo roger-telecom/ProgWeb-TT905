@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html>
+
+<meta charset="UTF-8"/>
+
+<head>
+
+<title>Terceira Atividade</title>
+
+</head>
+
+<body>
+
+<h1>Cidades</h1>
+
+<h3><ins>Ao clicar sobre as cidades do índice, você poderá ver os dados referentes a cidade e ao clicar em <strong>"Ver imagem da cidade"</strong> você irá ver a imagem da cidade e ao clicar na imagem você será direcionado à página da Wikipédia que fala sobre essa cidade</ins></h3>
+
+<h4>Índice:</h4>
+
+<details>
+
+<summary><b> São Paulo</b></summary><br/>
+
+<p>Dados de São Paulo</p>
+
+<table border="1">
+
+<tr>
+
+<th>População</th>
+<th>Área</th>
+<th>PIB per capita (IBGE/2018)</th>
+
+</tr>
+
+<td>12,33 milhões (2020)</td>
+<td>1.521 km<sup>2</sup></td>
+<td>R$ 58 691,90</td>
+    
+</table><br/>
+
+<p><a href = "#saopaulo"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade de nascimento de Roger Mascarenhas</em></p>
+
+</details>
+
+<details>
+
+<summary><b>Americana</b></summary><br/>
+            
+<p>Dados de Americana</p>
+            
+<table border="1">
+            
+<tr>
+            
+<th>População</th>
+<th>Área</th>
+<th>PIB per capita (IBGE/2009)</th>
+            
+</tr>
+            
+<td>242 018 (2020)</td>
+<td>133,930 km<sup>2</sup></td>
+<td>R$ 29 850,41</td>
+                
+</table><br/>
+    
+<p><a href = "#americana"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade de nascimento de Yuri de Azevedo Bosquê</em></p>
+            
+</details>
+
+<details>
+
+<summary><b>Rio de Janeiro</b></summary><br/>
+        
+<p>Dados do Rio de Janeiro</p>
+        
+<table border="1">
+        
+<tr>
+        
+<th>População</th>
+<th>Área</th>
+<th>PIB per capita (IBGE/2018)</th>
+        
+</tr>
+        
+<td>6,748 milhões (2020)</td>
+<td>1.255 km<sup>2</sup></td>
+<td>R$ 54 426,08</td>
+            
+</table><br/>
+        
+<p><a href = "#riodejaneiro"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade que os integrantes gostam muito</em></p>
+    
+</details>
+    
+<details>
+    
+<summary><b>Limeira</b></summary><br/>
+        
+<p>Dados de Limeira</p>
+        
+<table border="1">
+        
+<tr>
+        
+<th>População</th>
+<th>Área</th>
+<th>PIB per capita (IBGE/2008)</th>
+        
+</tr>
+        
+<td>308.482 (2020)</td>
+<td>580.983 km<sup>2</sup></td>
+<td>R$ 20 252,90</td>
+            
+</table><br/>
+    
+<p><a href = "#limeira"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade em que os integrantes estudam</em></p>
+        
+</details>
+
+<details>
+
+<summary><b>Ribeirão Preto</b></summary><br/>
+
+<p>Dados de Ribeirão Preto</p>
+
+<table border="1">
+
+<tr>
+    
+<th>População</th>
+<th>Área</th>
+<th>PIB per capita (IBGE/2016)</th>
+    
+</tr>
+    
+<td>711.825 (2020)</td>
+<td>650.916 km<sup>2</sup></td>
+<td>R$ 51 759,84</td>
+        
+</table><br/>
+
+<p><a href = "#ribeiraopreto"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade que um dos integrantes visitam muito</em></p>
+
+</details>
+
+<h1>Imagens:</h1>
+
+<h2>São Paulo</h2>
+
+<p id="saopaulo"><a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo"><img src="file:///C:/Users/drrog/Desktop/imagem%20de%20SP.png" alt="imagem da cidade de São Paulo" weight="250" height="260"></img> </a></p>
+
+<h2>Americana</h2>
+
+<p id="americana"><a href="https://pt.wikipedia.org/wiki/Americana"><img src="file:///C:/Users/drrog/Desktop/imagem%20de%20Americana.png" alt="imagem da cidade de Americana" weight="250" height="270"></img> </a></p>
+
+<h2>Rio de Janeiro</h2>
+
+<p id="riodejaneiro"><a href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro"><img src="file:///C:/Users/drrog/Desktop/imagem%20de%20RJ.png" alt="imagem da cidade do Rio de Janeiro" weight="250" height="235"></img> </a></p>
+
+<h2>Limeira</h2>
+
+<p id="limeira"><a href="https://pt.wikipedia.org/wiki/Limeira"><img src="file:///C:/Users/drrog/Desktop/imagem%20de%20Limeira.png" alt="imagem da cidade de Limeira" weight="250" height="224"></img> </a></p>
+
+<h2>Ribeirão Preto</h2>
+
+<p id="ribeiraopreto"><a href="https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto"><img src="file:///C:/Users/drrog/Desktop/Imagem%20de%20Ribeir%C3%A3o%20Preto.png" alt="imagem da cidade de Ribeirão Preto" weight="250" height="200"></img> </a></p>
+
+</body>
+
+</html>
