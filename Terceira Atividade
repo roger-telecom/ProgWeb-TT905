@@ -48,7 +48,7 @@
 
 <p><a href = "#saopaulo"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade de nascimento de Roger Mascarenhas</em></p>
 
-<video width="500px" height="250px" controls><source src="C:\Users\drrog\Desktop\midias da terceira atividade\Cidade de SP.mp4" type="video/mp4"></video>
+<video width="500px" height="250px" controls><source src="midias da terceira atividade\Cidade de SP.mp4" type="video/mp4"></video>
 
 </details>
 
@@ -82,7 +82,7 @@
     
 <p><a href = "#americana"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade de nascimento de Yuri de Azevedo Bosquê</em></p>
 
-<video width="500px" height="250px" controls><source src="C:\Users\drrog\Desktop\midias da terceira atividade\Cidade de Americana.mp4" type="video/mp4"></video>
+<video width="500px" height="250px" controls><source src="midias da terceira atividade\Cidade de Americana.mp4" type="video/mp4"></video>
 
 </details>
 
@@ -116,7 +116,7 @@
         
 <p><a href = "#riodejaneiro"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade que os integrantes gostam muito</em></p>
     
-<video width="500px" height="250px" controls><source src="C:\Users\drrog\Desktop\midias da terceira atividade\Cidade do Rio de Janeiro.mp4" type="video/mp4"></video>
+<video width="500px" height="250px" controls><source src="midias da terceira atividade\Cidade do Rio de Janeiro.mp4" type="video/mp4"></video>
 
 </details>
     
@@ -150,7 +150,7 @@
     
 <p><a href = "#limeira"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade em que os integrantes estudam</em></p>
 
-<video width="500px" height="250px" controls><source src="C:\Users\drrog\Desktop\midias da terceira atividade\Cidade de Limeira.mp4" type="video/mp4"></video>
+<video width="500px" height="250px" controls><source src="midias da terceira atividade\Cidade de Limeira.mp4" type="video/mp4"></video>
 
 </details>
 
@@ -184,7 +184,7 @@
 
 <p><a href = "#ribeiraopreto"><b>Ver imagem da cidade</b><br/></a><i>Descrição:</i><em>Cidade que um dos integrantes visitam muito</em></p>
 
-<video width="500px" height="250px" controls><source src="C:\Users\drrog\Desktop\midias da terceira atividade\Cidade de Ribeirão Preto.mp4" type="video/mp4"></video>
+<video width="500px" height="250px" controls><source src="midias da terceira atividade\Cidade de Ribeirão Preto.mp4" type="video/mp4"></video>
 
 </details>
 
@@ -192,23 +192,23 @@
 
 <h2>São Paulo</h2>
 
-<p id="saopaulo"><a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo"><img src="file:///C:/Users/drrog/Desktop/midias%20da%20terceira%20atividade/imagem%20de%20SP.png" alt="imagem da cidade de São Paulo" weight="250" height="260"></img> </a></p>
+<p id="saopaulo"><a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo"><img src="midias da terceira atividade\imagem de SP.png" alt="imagem da cidade de São Paulo" weight="250" height="260"></img> </a></p>
 
 <h2>Americana</h2>
 
-<p id="americana"><a href="https://pt.wikipedia.org/wiki/Americana"><img src="file:///C:/Users/drrog/Desktop/midias%20da%20terceira%20atividade/imagem%20de%20Americana.png" alt="imagem da cidade de Americana" weight="250" height="270"></img> </a></p>
+<p id="americana"><a href="https://pt.wikipedia.org/wiki/Americana"><img src="midias da terceira atividade\imagem de Americana.png" alt="imagem da cidade de Americana" weight="250" height="270"></img> </a></p>
 
 <h2>Rio de Janeiro</h2>
 
-<p id="riodejaneiro"><a href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro"><img src="file:///C:/Users/drrog/Desktop/midias%20da%20terceira%20atividade/imagem%20de%20RJ.png" alt="imagem da cidade do Rio de Janeiro" weight="250" height="235"></img> </a></p>
+<p id="riodejaneiro"><a href="https://pt.wikipedia.org/wiki/Rio_de_Janeiro"><img src="midias da terceira atividade\imagem do Rio de Janeiro.png" alt="imagem da cidade do Rio de Janeiro" weight="250" height="235"></img> </a></p>
 
 <h2>Limeira</h2>
 
-<p id="limeira"><a href="https://pt.wikipedia.org/wiki/Limeira"><img src="file:///C:/Users/drrog/Desktop/midias%20da%20terceira%20atividade/imagem%20de%20Limeira.png" alt="imagem da cidade de Limeira" weight="250" height="224"></img> </a></p>
+<p id="limeira"><a href="https://pt.wikipedia.org/wiki/Limeira"><img src="midias da terceira atividade\imagem de Limeira.png" alt="imagem da cidade de Limeira" weight="250" height="224"></img> </a></p>
 
 <h2>Ribeirão Preto</h2>
 
-<p id="ribeiraopreto"><a href="https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto"><img src="file:///C:/Users/drrog/Desktop/midias%20da%20terceira%20atividade/Imagem%20de%20Ribeir%C3%A3o%20Preto.png" alt="imagem da cidade de Ribeirão Preto" weight="250" height="200"></img> </a></p>
+<p id="ribeiraopreto"><a href="https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto"><img src="midias da terceira atividade\imagem de Ribeirão Preto.png" alt="imagem da cidade de Ribeirão Preto" weight="250" height="200"></img> </a></p>
 
 </body>
 
